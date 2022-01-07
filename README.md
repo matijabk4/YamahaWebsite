@@ -1,1 +1,1 @@
-Simple commercial website developed using HTMl, CSS and slick JQuery plugin.
+Simple commercial website developed using HTMl, CSS, JavaScript and slick JQuery plugin.
